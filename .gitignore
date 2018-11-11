@@ -1,0 +1,12 @@
+#
+# gitignore
+#
+
+
+# LtSpice
+#
+*.net
+*.op
+*.raw
+*.log
+#
