@@ -1,0 +1,20 @@
+# **********************************************************************
+# License       : GPLv3
+#
+# Author        : akae
+# eMail         : andreas.kaeberlein@web.de
+#
+# File          : .gitattributes.
+# Description   : handling of files in git
+#
+# SRC           : https://git-scm.com/book/en/v2/Customizing-Git-Git-Attributes
+#
+# on            : 2019-11-30
+# ***********************************************************************
+
+
+# MS Office
+#
+*.vsd binary
+
+
