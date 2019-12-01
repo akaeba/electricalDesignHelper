@@ -22,8 +22,12 @@ In some cases is a digital controllable output voltages of a V<sub>FB</sub> or V
 ## Derivation
 
 The voltage regulator can rewritten in a equivalent voltage sources circuit as follows:
+<center><img src="./inc/reguator_voltage_src_equivalent_circuit.svg" height="35%" width="35%" alt="VFB controlled regulator as voltage source equivalent circuit, regulator itself is substituted by voltage sources" title="VFB controlled regulator as voltage source equivalent circuit" /></center>
 <br />
-<center><img src="./inc/reguator_voltage_src_equivalent_circuit.svg" height="75%" width="75%" alt="VFB controlled regulator as voltage source equivalent circuit, regulator itself is substituted by voltage sources" title="VFB controlled regulator as voltage source equivalent circuit" /></center>
+
+To allow the calculation of the circuit is a second equivalent circuit necessary. Rewritten with current sources:
+<center><img src="./inc/reguator_current_src_equivalent_circuit.svg" height="35%" width="35%" alt="VFB controlled regulator as current source equivalent circuit" title="VFB controlled regulator as current source equivalent circuit" /></center>
+<br />
 
 
 
