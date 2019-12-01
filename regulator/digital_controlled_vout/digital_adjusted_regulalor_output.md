@@ -44,11 +44,10 @@ All conductances assigned to V<sub>FB</sub> follows with Kirchhoff's current law
 <img src="https://latex.codecogs.com/svg.latex?V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" title="V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" />
 
 
+Current sources back transformed to voltage sources and the basic formula is ready:
 
+<img src="https://latex.codecogs.com/svg.latex?\boxed{V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=V_{out}%20\cdot%20G_{1}%20+%20V_{DAC}%20\cdot%20G_{3}}" title="\boxed{V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=V_{out} \cdot G_{1} + V_{DAC} \cdot G_{3}}" />
 
-
-
-<img src="https://latex.codecogs.com/svg.latex?G_1+G_2+G_3=\frac{V_{out} \cdot G_1 + V_{DAC} \cdot G_2}{V_{FB}}" title="G_1+G_2+G_3=\frac{V_{out} \cdot G_1 + V_{DAC} \cdot G_2}{V_{FB}}" />
 
 
 
