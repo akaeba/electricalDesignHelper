@@ -30,12 +30,12 @@ To allow the calculation of the circuit is the substitution of the voltage sourc
 <br />
 
 Replace the resistance by conductance:
-<img src="https://latex.codecogs.com/svg.latex?G_{1}=\frac{1}{R_1}; \quad G_{2}=\frac{1}{R_{2}}; \quad G_{3}=\frac{1}{R_3}" title="G_{1}=\frac{1}{R_1}; \quad G_{2}=\frac{1}{R_{2}}; \quad G_{3}=\frac{1}{R_3}" />
+<img src="https://latex.codecogs.com/svg.latex?G_{1}=\frac{1}{R_1};%20\quad%20G_{2}=\frac{1}{R_{2}};%20\quad%20G_{3}=\frac{1}{R_3}" title="G_{1}=\frac{1}{R_1}; \quad G_{2}=\frac{1}{R_{2}}; \quad G_{3}=\frac{1}{R_3}" />
 <br />
 
 Convert voltages sources to corresponding current sources:
-<img src="https://latex.codecogs.com/svg.latex?I_{out}=I_{q1}=\frac{V_{out}}{R_1}; \quad I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" title="I_{out}=I_{q1}=\frac{V_{out}}{R_1}; \quad I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" />
-
+<img src="https://latex.codecogs.com/svg.latex?I_{out}=I_{q1}=\frac{V_{out}}{R_1};%20\quad%20I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" title="I_{out}=I_{q1}=\frac{V_{out}}{R_1}; \quad I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" />
+<br />
 
 
 
