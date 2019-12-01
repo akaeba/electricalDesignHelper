@@ -136,14 +136,14 @@
 				<v:textRect cx="12.7559" cy="97.9941" width="17.32" height="16.4037" transform="rotate(90)"/>
 				<text x="91.7" y="-9.16" transform="rotate(90)" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>R2</text>			</g>
 		</g>
-		<g id="shape11-17" v:mID="11" v:groupContext="shape" transform="translate(47.872,-77.2993)">
+		<g id="shape11-17" v:mID="11" v:groupContext="shape" transform="translate(46.9055,-77.2993)">
 			<title>Tabelle.11</title>
-			<desc>VREF</desc>
+			<desc>VFB</desc>
 			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 			<v:textRect cx="11.6969" cy="110.167" width="23.4" height="10.2362"/>
 			<rect x="0" y="105.049" width="23.3937" height="10.2362" class="st4"/>
-			<text x="4.02" y="113.55" class="st5" v:langID="1031"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>V<tspan
-						dy="-0.284em" class="st6" v:baseFontSize="10">REF</tspan></text>		</g>
+			<text x="5.6" y="113.55" class="st5" v:langID="1031"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>V<tspan
+						dy="-0.284em" class="st6" v:baseFontSize="10">FB</tspan></text>		</g>
 		<g id="shape12-21" v:mID="12" v:groupContext="shape" transform="translate(63.6604,-84.4489)">
 			<title>Tabelle.12</title>
 			<desc>VO</desc>

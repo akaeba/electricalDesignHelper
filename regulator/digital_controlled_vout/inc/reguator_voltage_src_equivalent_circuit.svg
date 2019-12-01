@@ -270,14 +270,14 @@
 			<title>Dynamischer Verbinder.84</title>
 			<path d="M-0.2 108.67 L-13.98 108.67 L-13.98 116.6" class="st3"/>
 		</g>
-		<g id="shape85-96" v:mID="85" v:groupContext="shape" transform="translate(47.0965,-33.6772)">
+		<g id="shape85-96" v:mID="85" v:groupContext="shape" transform="translate(47.7638,-33.6772)">
 			<title>Tabelle.85</title>
-			<desc>VREF</desc>
+			<desc>VFB</desc>
 			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197" v:verticalAlign="0"/>
 			<v:textRect cx="10.6299" cy="99.5045" width="21.26" height="12.0871"/>
 			<rect x="0" y="93.461" width="21.2598" height="12.0871" class="st4"/>
-			<text x="1.41" y="103.46" class="st8" v:langID="1031"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>V<tspan
-						dy="-0.284em" class="st9" v:baseFontSize="12">REF</tspan></text>		</g>
+			<text x="3.31" y="103.46" class="st8" v:langID="1031"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>V<tspan
+						dy="-0.284em" class="st9" v:baseFontSize="12">FB</tspan></text>		</g>
 		<g id="shape86-100" v:mID="86" v:groupContext="shape" transform="translate(176.739,59.115) rotate(90)">
 			<title>Tabelle.86</title>
 			<path d="M0 105.55 L8.01 105.55" class="st10"/>
