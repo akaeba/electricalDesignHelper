@@ -34,9 +34,14 @@ Replace the resistance by conductance:
 <img src="https://latex.codecogs.com/svg.latex?G_{1}=\frac{1}{R_1};%20\quad%20G_{2}=\frac{1}{R_{2}};%20\quad%20G_{3}=\frac{1}{R_3}" title="G_{1}=\frac{1}{R_1}; \quad G_{2}=\frac{1}{R_{2}}; \quad G_{3}=\frac{1}{R_3}" />
 
 
-Convert voltages sources to corresponding current sources:
+Convert voltage sources to corresponding current sources:
 
 <img src="https://latex.codecogs.com/svg.latex?I_{out}=I_{q1}=\frac{V_{out}}{R_1};%20\quad%20I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" title="I_{out}=I_{q1}=\frac{V_{out}}{R_1}; \quad I_{DAC}=I_{q2}=\frac{V_{DAC}}{R_3}" />
+
+
+All conductances assigned to V<sub>FB</sub> follows with Kirchhoff's current law:
+
+<img src="https://latex.codecogs.com/svg.latex?https://latex.codecogs.com/svg.latex?V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" title="V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" />
 
 
 
