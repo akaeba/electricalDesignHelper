@@ -41,7 +41,7 @@ Convert voltage sources to corresponding current sources:
 
 All conductances assigned to V<sub>FB</sub> follows with Kirchhoff's current law:
 
-<img src="https://latex.codecogs.com/svg.latex?https://latex.codecogs.com/svg.latex?V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" title="V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" />
+<img src="https://latex.codecogs.com/svg.latex?V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" title="V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" />
 
 
 
