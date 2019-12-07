@@ -1,7 +1,7 @@
 # Digital adjusted regulator output
 
 ## Keywords
-Voltage regulator, supply, PWM/DAC controlled output, calculation formula
+regulator, supply, PWM/DAC controlled output, digital adjusted boost/buck converter; calculation formula
 
 ## Abstract
 In some cases is a digital controllable output voltages of a V<sub>FB</sub> or V<sub>REF</sub> input regulator desirable. The calculation and dimensioning of the feedback network is described in this article.
@@ -44,12 +44,21 @@ All conductances assigned to V<sub>FB</sub> follows with Kirchhoff's current law
 <img src="https://latex.codecogs.com/svg.latex?V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" title="V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=I_{q1}+I_{q2}" />
 
 
-Current sources back transformed to voltage sources and the basic formula is ready:
+After current sources through voltage sources substitution follows:
 
 <img src="https://latex.codecogs.com/svg.latex?\boxed{V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=V_{out}%20\cdot%20G_{1}%20+%20V_{DAC}%20\cdot%20G_{3}}" title="\boxed{V_{FB}\left(G_{1}+G_{2}+G_{3}\right)=V_{out} \cdot G_{1} + V_{DAC} \cdot G_{3}}" />
 
 
+Also known is:
+ * R<sub>2</sub> is fix due IC vendors divider current request
+ * V<sub>out,max</sub> is achieved for V<sub>DAC,min</sub> and V<sub>out,min</sub> for V<sub>DAC,max</sub>
 
+ 
+ 
+
+
+
+### Solving R2
 
 
 
@@ -62,3 +71,6 @@ https://latex.codecogs.com/svg.latex?
 
 ## Used Tools
 
+
+
+## Related
